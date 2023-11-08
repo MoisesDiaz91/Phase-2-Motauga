@@ -1,0 +1,131 @@
+{
+  "store": [
+    {
+      "id": 1,
+      "name": "Brooklyn Dispensary",
+      "address": "1302 Myrtle Ave, Brooklyn, NY 1122 United States"
+    },
+    {
+      "id": 2,
+      "name": "Cloud 9 NYC",
+      "address": "2163 2nd Ave, New York, NY 10029 United States"
+    },
+    {
+      "id": 4,
+      "name": "La Zamilia",
+      "address": "4030 Tenth Ave New York, NY 10034 United States"
+    },
+    {
+      "id": 5,
+      "name": "Roll Up NYC",
+      "address": "117 Montague St Brooklyn, NY 11201 United States"
+    },
+    {
+      "id": 6,
+      "name": "Sky Club NYC",
+      "address": "30-79 31st Astoria, NY 11102 United States"
+    },
+    {
+      "id": 7,
+      "name": "Smoke Shop",
+      "address": "493 2nd Avenue New York 10003 United States"
+    },
+    {
+      "id": 8,
+      "name": "The Stoop Smoke Shop",
+      "address": "7514 Tonnelle Ave, North Bergen NJ 07047"
+    },
+    {
+      "id": 9,
+      "name": "Rent Smokers Club",
+      "address": "3770 E Tremont Ave Bronx, NY 10465 United States"
+    }
+  ],
+  
+  "juices": [
+    {
+      "id": 1,
+      "collab": "Fidel WorldWide",
+      "name": "Peach",
+      "flavor": "Sweet",
+      "image": "https://i.imgur.com/A7I1vvT.jpg"
+    },
+    {
+      "id": 2,
+      "collab": "Fidel WorldWide",
+      "name": "Guava",
+      "flavor": "Sweet",
+      "image": ""
+    },
+     {
+    "id": 3,
+    "collab": "Fidel WorldWide",
+    "name": "Huckleberry",
+    "flavor": "Sweet",
+    "image": ""
+  },
+  {
+    "id": 4,
+    "collab": "Fidel WorldWide",
+    "name": "Lychee",
+    "flavor": "Sweet & Bitter",
+    "image": ""
+  },
+  {
+    "id": 5,
+    "collab": "Fidel WorldWide",
+    "name": "Passion Fruit",
+    "flavor": "Sweet",
+    "image": "https://i.imgur.com/UB9ZLHb.jpg"
+  },
+  {
+    "id": 6,
+    "collab": "Fidel WorldWide",
+    "name": "Pomegranate",
+    "flavor": "Sweet & Bitter",
+    "image": ""
+  },
+  {
+    "id": 7,
+    "collab": "OG Line",
+    "name": "Lemonade",
+    "flavor": "Sweet",
+    "image": ""
+  },
+  {
+    "id": 8,
+    "collab": "OG Line",
+    "name": "Mango",
+    "flavor": "Sweet",
+    "image": ""
+  },
+  {
+    "id": 9,
+    "collab": "OG Line",
+    "name": "Passion Fruit",
+    "flavor": "Sweet",
+    "image": ""
+  },
+  {
+    "id": 10,
+    "collab": "OG Line",
+    "name": "Pink Lemonade",
+    "flavor": "Sweet",
+    "image": ""
+  },
+  {
+    "id": 11,
+    "collab": "Smokeup212",
+    "name": "Morrir Soñando ",
+    "flavor": "Sweet & Creamy",
+    "image": ""
+  },
+  {
+    "id": 12,
+    "collab": "Baked Bodega",
+    "name": "Pina",
+    "flavor": "Sweet Pineapple",
+    "image": "https://i.imgur.com/L1dS7Kf.jpg"
+  }
+  ]
+}
